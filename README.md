@@ -7,3 +7,6 @@ SELECT, WHERE, and ORDER BY clauses were used to retrieve and sort data. Aggrega
 To demonstrate relational data handling, INNER JOIN and LEFT JOIN were used between customers and orders tables. A view was created for reusable analysis, and indexing was applied to optimize query performance.
 
 Overall, this task improved understanding of SQL-based data analysis and real-world database querying techniques.
+
+
+**Performed uising XAMPP Control Panel MYSQL**
